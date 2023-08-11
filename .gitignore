@@ -1,1 +1,4 @@
 secrets.txt
+
+#To prevent all .log files from adding to git
+*.log
